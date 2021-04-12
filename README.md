@@ -6,12 +6,12 @@ The project is Decentralized App or in simple terms a Blockchain app running on 
 
 ## Technologies & Dependencies used:
 
-1) Ganache-  Personal Blockchain running on our local server.
-2) Truffle Framework- It provides a suite of tools for developing Etherium Smart Contracts with Solidity language. Provides Testing as well.
-3) Metamask Etherium Wallet- Provides our browser to be ableto connect to Ehterium/Our Private Blockchain network and connect accounts to manage Ether funds required for transactions.
-4) Node.js- For package management
-5) Web3.js- To connect our frontend to our Blockchain network.
-6) React.js- Frontend UI.
+1) **Ganache**-  Personal Blockchain running on our local server.
+2) **Truffle Framework**- It provides a suite of tools for developing Etherium Smart Contracts with Solidity language. Provides Testing as well.
+3) **Metamask Etherium Wallet**- Provides our browser to be ableto connect to Ehterium/Our Private Blockchain network and connect accounts to manage Ether funds required for transactions.
+4) **Node.js**- For package management
+5) **Web3.js**- To connect our frontend to our Blockchain network.
+6) **React.js**- Frontend UI.
 
 ## Final Project:
 
